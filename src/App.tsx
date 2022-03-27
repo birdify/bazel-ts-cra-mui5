@@ -7,7 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>You're using Bazel, Create React App, Typescript and MUI!</h1>
+        <h1>
+          You're using Bazel, Create React App, Typescript and Material UI!
+        </h1>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
